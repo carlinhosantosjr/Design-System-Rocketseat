@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@carlinhosantosjr-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,10 +12,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@carlinhosantosjr-ignite-ui/eslint-config": "*",
+    "@carlinhosantosjr-ignite-ui/react": "*",
+    "@carlinhosantosjr-ignite-ui/tokens": "*",
+    "@carlinhosantosjr-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.6.12",
     "polished": "^4.3.1",
     "react": "^19.0.0",

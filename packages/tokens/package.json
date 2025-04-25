@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@carlinhosantosjr-ignite-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -15,8 +15,8 @@
   "type": "commonjs",
   "description": "",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@carlinhosantosjr-ignite-ui/eslint-config": "*",
+    "@carlinhosantosjr-ignite-ui/ts-config": "*",
     "tsup": "^8.4.0",
     "typescript": "^4.8.4"
   }
