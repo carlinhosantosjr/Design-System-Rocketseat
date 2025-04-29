@@ -1,0 +1,1 @@
+import{_ as o}from"./index-CaNBE37y.js";import"./index-CdUicJsP.js";import"./_commonjsHelpers-CqkleIqs.js";const e={parameters:{backgrounds:{default:"dark"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}},docs:{theme:o.dark}},tags:["autodocs"]};export{e as default};
